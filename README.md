@@ -47,5 +47,25 @@ git clone https://github.com/Mahfazzalin/MAHF_DDoS.git
 pip install requests
 ```
 ```bash
-cd 
+cd MAHF_DDoS
 ```
+- for running the tools
+    - for windows and Mac
+
+    ```bash
+    python mahf_ddos.py
+    ```
+    - for Kali or other linux distro
+    ```bash
+    sudo git clone https://github.com/Mahfazzalin/MAHF_DDoS.git
+    ```
+    ```bash
+    pip install requests
+    ```
+    ```bash
+    cd MAHF_DDoS
+    ```
+    ```bash
+    python mahf_ddos.py
+    ```
+
