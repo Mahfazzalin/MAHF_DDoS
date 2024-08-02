@@ -3,14 +3,14 @@
 
 This DDoS tool is designed for educational and ethical hacking purposes only. Ensure you have explicit permission from the target before using this tool. Unauthorized use of this tool against networks and servers is illegal and unethical.
 
-### use nmap for finding a websites ip address and open port.
+## use nmap for finding a websites ip address and open port.
 nmap available on windows , Mac and linux . 
 download link
--- windows : [click here downloading for windows](https://nmap.org/download#windows)
--- linux : [click here downloading for linux](https://nmap.org/download#linux-rpm)
--- Mac : [click here downloading for Mac os](https://nmap.org/download#macosx)
+- windows : [click here downloading for windows](https://nmap.org/download#windows)
+- linux : [click here downloading for linux](https://nmap.org/download#linux-rpm)
+- Mac : [click here downloading for Mac os](https://nmap.org/download#macosx)
 
-### check on  wireshark after perform an attack.
+## check on  wireshark after perform an attack.
 wireshark also available on windows,Mac and linux
 
 
