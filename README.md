@@ -1,21 +1,7 @@
 # MAHF_DDoS
  this is perform a flood of tcp,udp,http request. use it only eductional pupose.
-# DDoS Tool
 
 This DDoS tool is designed for educational and ethical hacking purposes only. Ensure you have explicit permission from the target before using this tool. Unauthorized use of this tool against networks and servers is illegal and unethical.
-
-## Table of Contents
-
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Operating System Instructions](#operating-system-instructions)
-  - [Windows](#windows)
-  - [macOS](#macos)
-  - [Kali Linux and Other Linux Distributions](#kali-linux-and-other-linux-distributions)
-- [Important Notes](#important-notes)
-- [Disclaimer](#disclaimer)
 
 ## Features
 
@@ -66,6 +52,6 @@ cd MAHF_DDoS
     cd MAHF_DDoS
     ```
     ```bash
-    python mahf_ddos.py
+    python3 mahf_ddos.py
     ```
 
