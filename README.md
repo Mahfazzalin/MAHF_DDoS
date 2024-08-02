@@ -4,6 +4,8 @@
 This DDoS tool is designed for educational and ethical hacking purposes only. Ensure you have explicit permission from the target before using this tool. Unauthorized use of this tool against networks and servers is illegal and unethical.
 
 ![MAHF_DDoS](image.png)
+![Mahf_ddos](image-1.png)
+![MAHF_DDoS](image-2.png)
 
 ## Features
 
