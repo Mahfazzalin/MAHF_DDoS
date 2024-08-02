@@ -3,20 +3,6 @@
 
 This DDoS tool is designed for educational and ethical hacking purposes only. Ensure you have explicit permission from the target before using this tool. Unauthorized use of this tool against networks and servers is illegal and unethical.
 
-## use nmap for finding a websites ip address and open port.
-nmap available on windows , Mac and linux . 
-download link
-- windows : [click here downloading for windows](https://nmap.org/download#windows)
-- linux : [click here downloading for linux](https://nmap.org/download#linux-rpm)
-    - or use terminal to install nmap
-    ```bash
-     sudo apt install nmap #kali linux , use your distro defalt command instead of 'apt' 
-     ```
-- Mac : [click here downloading for Mac os](https://nmap.org/download#macosx)
-
-## check on  wireshark after perform an attack.
-wireshark also available on windows,Mac and linux
--download link:[click here to download](https://www.wireshark.org/download.html)
 
 
 ## Features
@@ -71,3 +57,17 @@ cd MAHF_DDoS
     python3 mahf_ddos.py
     ```
 
+## use nmap for finding a websites ip address and open port.
+nmap available on windows , Mac and linux . 
+download link
+- windows : [click here downloading for windows](https://nmap.org/download#windows)
+- linux : [click here downloading for linux](https://nmap.org/download#linux-rpm)
+    - or use terminal to install nmap
+    ```bash
+     sudo apt install nmap #kali linux , use your distro defalt command instead of 'apt' 
+     ```
+- Mac : [click here downloading for Mac os](https://nmap.org/download#macosx)
+
+## check on  wireshark after perform an attack.
+wireshark also available on windows,Mac and linux
+-download link:[click here to download](https://www.wireshark.org/download.html)
