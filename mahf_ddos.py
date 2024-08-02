@@ -102,11 +102,11 @@ def show_help():
                 |_|   |_||__| |__||__| |__||___|      
                 ______   ______   _______  _______   
                 |      | |      | |       ||       |  
-                |  _    ||  _    ||   _   ||  _____|  
-                | | |   || | |   ||  | |  || |_____   
-                | |_|   || |_|   ||  |_|  ||_____  |  writer:Mahfazzalin Showon Reza
-                |       ||       ||       | _____| |  use it only educational purpose
-                |______| |______| |_______||_______|  and if you have written permision.
+                |  _    ||  _    ||   _   ||  _____|  writer:Mahfazzalin Showon Reza
+                | | |   || | |   ||  | |  || |_____   use it only educational purpose
+                | |_|   || |_|   ||  |_|  ||_____  |  and if you have written permision.
+                |       ||       ||       | _____| |  if you have any issue or error leave a comment on
+                |______| |______| |_______||_______|  https://github.com/Mahfazzalin/MAHF_DDoS/issues/1
 
     1st: write "start" for starting the attack process
     2nd: Enter target ip address and hit enter

@@ -12,6 +12,17 @@ This DDoS tool is designed for educational and ethical hacking purposes only. En
 - Ability to start, stop, and exit the tool using commands.
 - Help menu for user guidance.
 
+## easy using:
+
+- 1 Type start to begin an attack.
+- 2 Enter the target IP address.
+- 3 Enter the target port number
+- 4 Choose the attack mode (tcp, udp, or http).
+- 5 Specify the number of worker threads and processes.
+- 6 Type stop to halt the attack.
+- 7 Type exit to exit the tool.
+- 8 Type help to display the help menu.
+
 ## Requirements
 
 - Python 3.x    [version will be 3+]
@@ -70,4 +81,4 @@ download link
 
 ## check on  wireshark after perform an attack.
 wireshark also available on windows,Mac and linux
--download link:[click here to download](https://www.wireshark.org/download.html)
+- download link: [click here to download](https://www.wireshark.org/download.html)
