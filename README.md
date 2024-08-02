@@ -3,7 +3,7 @@
 
 This DDoS tool is designed for educational and ethical hacking purposes only. Ensure you have explicit permission from the target before using this tool. Unauthorized use of this tool against networks and servers is illegal and unethical.
 
-
+![MAHF_DDoS](image.png)
 
 ## Features
 
@@ -14,14 +14,14 @@ This DDoS tool is designed for educational and ethical hacking purposes only. En
 
 ## easy using:
 
-- 1 Type start to begin an attack.
+- 1 Type "start" to begin an attack.
 - 2 Enter the target IP address.
 - 3 Enter the target port number
 - 4 Choose the attack mode (tcp, udp, or http).
 - 5 Specify the number of worker threads and processes.
-- 6 Type stop to halt the attack.
-- 7 Type exit to exit the tool.
-- 8 Type help to display the help menu.
+- 6 Type "stop" to stop the attack.
+- 7 Type "exit" to exit the tool.
+- 8 Type "help" to display the help menu.
 
 ## Requirements
 
@@ -67,6 +67,9 @@ cd MAHF_DDoS
     ```bash
     python3 mahf_ddos.py
     ```
+
+
+
 
 ## use nmap for finding a websites ip address and open port.
 nmap available on windows , Mac and linux . 
