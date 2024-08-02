@@ -8,6 +8,10 @@ nmap available on windows , Mac and linux .
 download link
 - windows : [click here downloading for windows](https://nmap.org/download#windows)
 - linux : [click here downloading for linux](https://nmap.org/download#linux-rpm)
+    - or use terminal to install nmap
+    ```bash
+     sudo apt install nmap #kali linux , use your distro defalt command instead of 'apt' 
+     ```
 - Mac : [click here downloading for Mac os](https://nmap.org/download#macosx)
 
 ## check on  wireshark after perform an attack.
